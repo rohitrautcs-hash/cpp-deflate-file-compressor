@@ -5,4 +5,4 @@
 
 ## Contributors
 - Anuj (@anujsahnp)
-- Prativa (@githubusername)
+- Prativa (@prativa005)
