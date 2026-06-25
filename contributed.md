@@ -4,5 +4,5 @@
 - Rohit (@rohitrautcs-hash)
 
 ## Contributors
-- Anuj (@githubusername)
+- Anuj (@anujsahnp)
 - Prativa (@githubusername)
